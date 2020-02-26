@@ -1,0 +1,9 @@
+TODO:
+
+1) Photography tab: update menu icons on top
+2) Contact Tab: Update menu icons on top
+3) Photography Page: Update to grid element with icons that indicate a link to
+another HTML page specified by the type with different grid icons
+Those icons can be linked with Google Photos Albums
+
+
